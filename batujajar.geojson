@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Raya Batujajar",
+        "description": "Jalan utama di Desa Galanggang"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.49134102907023,
+            -6.91731863229691
+          ],
+          [
+            107.49134218871153,
+            -6.917332136006459
+          ],
+          [
+            107.49143094597565,
+            -6.920949989294047
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jl. Hegarwangi",
+        "description": "Jalan di Galanggang, Batujajar"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.492004427933,
+            -6.916972308637259
+          ],
+          [
+            107.4920016671904,
+            -6.9169703171121295
+          ],
+          [
+            107.49960232121656,
+            -6.913076278655603
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalan Raya Citapen",
+        "description": "Jalan terdekat di area Batujajar"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            107.4860713406533,
+            -6.918442029885093
+          ],
+          [
+            107.48884803452152,
+            -6.917990200192751
+          ],
+          [
+            107.49073921306605,
+            -6.917557606355144
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
